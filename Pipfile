@@ -4,6 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pyyaml = "*"
+djangorestframework = "*"
+django-rest-swagger = "*"
+gunicorn = "*"
 
 [dev-packages]
 
